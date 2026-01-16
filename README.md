@@ -113,7 +113,7 @@ For a typical developer profile:
 
 ## Blog Post
 
-Read the non-technical summary of findings: [Link to blog post]
+Read the non-technical summary of findings: [Do Developers Fear AI? What 54,000 Programmers Told Us](https://medium.com/@mauriziopinto/do-developers-fear-ai-what-54-000-programmers-told-us-cedb1fcf0aaf)
 
 ## Acknowledgments
 
