@@ -50,4 +50,6 @@ The future of development isn't humans versus AI—it's humans *with* AI.
 
 ---
 
-*Data source: [Stack Overflow Developer Survey 2025](https://survey.stackoverflow.co/2025/). Full analysis available on [GitHub](link-to-repo).*
+*This blog post was created as part of the [Udacity Data Science Nanodegree](https://www.udacity.com/course/data-scientist-nanodegree--nd025) program.*
+
+*Data source: [Stack Overflow Developer Survey 2025](https://survey.stackoverflow.co/2025/). Full technical analysis available on [GitHub](https://github.com/mauriziopinto/stackoverflow-survey-analysis).*
