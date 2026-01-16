@@ -1,5 +1,7 @@
 # Stack Overflow Developer Survey 2025 Analysis
 
+**GitHub Repository:** https://github.com/mauriziopinto/stackoverflow-survey-analysis
+
 ## Project Overview
 
 This project analyzes the Stack Overflow Developer Survey 2025 data to uncover insights about developer careers, AI adoption, job satisfaction, and salary trends. The analysis follows the CRISP-DM (Cross-Industry Standard Process for Data Mining) methodology.
