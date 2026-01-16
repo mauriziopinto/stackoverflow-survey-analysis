@@ -1,0 +1,30 @@
+# Data files (too large for GitHub - download separately)
+survey_results_public.csv
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment
+.env
+.venv
+venv/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Project instruction files (not needed in repo)
+*.txt
+*.html
+*.pdf
