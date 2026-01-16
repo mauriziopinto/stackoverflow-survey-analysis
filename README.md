@@ -95,7 +95,7 @@ For a typical developer profile:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/stackoverflow-survey-analysis.git
+   git clone https://github.com/mauriziopinto/stackoverflow-survey-analysis.git
    cd stackoverflow-survey-analysis
    ```
 
