@@ -101,8 +101,16 @@ For a typical developer profile:
 
 2. Download the dataset (see [Dataset](#dataset) section above)
 
-3. Install required libraries:
+3. Create a conda environment and install required libraries:
    ```bash
+   conda create -n stackoverflow-analysis python=3.11 pandas numpy scikit-learn matplotlib seaborn jupyter -y
+   conda activate stackoverflow-analysis
+   ```
+
+   Alternatively, using pip with a virtual environment:
+   ```bash
+   python3 -m venv venv
+   source venv/bin/activate  # On Windows: venv\Scripts\activate
    pip install pandas numpy scikit-learn matplotlib seaborn jupyter
    ```
 
